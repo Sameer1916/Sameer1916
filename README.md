@@ -17,4 +17,4 @@
 
 ### 📫 Contact Me
 - LinkedIn: [your-linkedin](https://linkedin.com/in/shaiksameer1916)
-- Email: shaiksameer1916.com
+- Email: shaiksameer1916@gmail.com
