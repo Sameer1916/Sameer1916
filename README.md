@@ -9,25 +9,41 @@
 ### 👨‍💻 About Me
 
 I'm an enthusiastic **Java Full Stack Developer** trained at **QSpiders Hyderabad**, passionate about building scalable web applications and learning new technologies.  
-Currently focusing on backend development with Spring Boot and frontend with React.js.
+During my internship at **TechnoHacks Solutions**, I gained hands-on experience in **Core Java** and **Web Application Development** — working on debugging, testing, and optimizing Java-based modules.
+
+Currently, I’m focusing on **backend development with Spring Boot** and **frontend development using React.js**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Backend                 | Frontend           | Database         | Tools & Platforms       |
-|-------------------------|--------------------|------------------|------------------------|
-| Java, Spring Boot, MVC, Hibernate, JSP, Servlets, JDBC | HTML, CSS, JavaScript, React | MySQL, Oracle SQL | Git, Maven, Eclipse, VS Code, Postman |
+| Backend | Frontend | Database | Tools & Platforms |
+|----------|-----------|-----------|-------------------|
+| Java, Spring Boot, MVC, Hibernate, JSP, Servlets, JDBC | HTML, CSS, JavaScript, React | MySQL, Oracle SQL | Git, Maven, Eclipse, IntelliJ IDEA, VS Code, Postman |
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| **E-Commerce App** | Full-stack shopping cart with authentication, product management & checkout | Java, Spring Boot, React | [Repo](https://github.com/yourusername/ecommerce-app) |
-| **Blog API** | REST API for blog platform with CRUD & MySQL | Spring Boot, MySQL | [Repo](https://github.com/Sameer1916/Projects/tree/main/OnlineStore) |
-| **Portfolio Website** | Personal portfolio showcasing skills and projects | HTML, CSS, JavaScript | [Repo](https://github.com/yourusername/portfolio-site) |
+| Project Name | Description | Tech Stack | Repository |
+|---------------|--------------|-------------|-------------|
+| **Employee Management System (MVC)** | Console-based application using MVC architecture to manage employee details (CRUD operations). | Core Java, MVC | [Repo](https://github.com/Sameer1916/Back-End-Java-Projects/tree/main/EmployeeManagementSystemUsing_MVC) |
+| **Online Store** | Java-based web app simulating an e-commerce store with product listings and order management. | Java, Spring Boot, MySQL | [Repo](https://github.com/Sameer1916/Back-End-Java-Projects/tree/main/OnlineStore) |
+| **Bank Account Service (API)** | RESTful API for managing bank accounts — create, deposit, withdraw, and view balance. | Spring Boot, REST API, MySQL | [Repo](https://github.com/Sameer1916/Back-End-Java-Projects/tree/main/bank-account-service) |
+| **Simple Calculator** | Core Java calculator demonstrating OOP principles and user input handling. | Core Java | [Repo](https://github.com/Sameer1916/Back-End-Java-Projects/tree/main/SimpleCalculator) |
+| **Book Finder (Frontend)** | A web app for searching books using an external API. | HTML, CSS, JavaScript | [Repo](https://github.com/Sameer1916/frontend-projects/tree/main/Book_Finder) |
+
+---
+
+### 💼 Internship Experience
+
+**TechnoHacks Solutions**  
+*Java Developer Intern*  
+**June 2025 – August 2025**  
+
+- Worked on backend modules using **Core Java** and **Spring Boot**  
+- Debugged and optimized code for web-based Java applications  
+- Implemented small-scale projects including calculators, online stores, and CRUD systems  
 
 ---
 
@@ -35,7 +51,7 @@ Currently focusing on backend development with Spring Boot and frontend with Rea
 
 **Java Full Stack Development** – QSpiders, Hyderabad  
 _March 2025 – June 2025_  
-Technologies learned: Java, Spring Boot, Hibernate, JDBC, React, REST APIs, Git, Maven
+**Technologies Learned:** Core Java, Advanced Java (JDBC, Servlets, JSP), Spring Boot, Hibernate, React.js, REST APIs, Git, Maven
 
 ---
 
@@ -44,21 +60,24 @@ Technologies learned: Java, Spring Boot, Hibernate, JDBC, React, REST APIs, Git,
 - Spring Security  
 - Microservices Architecture  
 - Docker & Kubernetes  
-- AWS Cloud Services  
+- AWS Cloud Deployment  
 
 ---
 
 ### 📫 Contact Me
 
-- LinkedIn: [https://linkedin.com/in/shaiksameer1916](https://linkedin.com/in/shaiksameer1916)  
-- Email: shaiksameer1916@gmail.com  
+- **LinkedIn:** [linkedin.com/in/shaiksameer1916](https://linkedin.com/in/shaiksameer1916)  
+- **Email:** [shaiksameer1916@gmail.com](mailto:shaiksameer1916@gmail.com)  
+- **GitHub:** [github.com/Sameer1916](https://github.com/Sameer1916)
 
 ---
 
 ### ⚡ Fun Fact
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> “Code is like humor — when you have to explain it, it’s bad.”  
+> — *Cory House*
 
 ---
 
-Thanks for stopping by! Feel free to connect or check out my projects. 🚀
+⭐ **Thanks for visiting!**  
+Feel free to explore my repositories and connect with me on LinkedIn. 🚀
